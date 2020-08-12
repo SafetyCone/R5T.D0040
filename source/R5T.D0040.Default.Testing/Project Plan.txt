@@ -1,0 +1,4 @@
+R5T.D0040.Default.Testing - Tests library for the default IStringlyTypedUrlOperator service implementation.
+
+Goals
+

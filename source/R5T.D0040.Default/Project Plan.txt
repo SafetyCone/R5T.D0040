@@ -1,0 +1,4 @@
+R5T.D0040.Default - Default implementations library for the IStringlyTypedUrlOperator service.
+
+Goals
+

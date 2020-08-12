@@ -1,0 +1,4 @@
+R5T.D0040.Base - Base definitions library for the IStringlyTypedUrlOperator service.
+
+Goals
+

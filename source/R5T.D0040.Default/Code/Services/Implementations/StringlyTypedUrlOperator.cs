@@ -1,9 +1,9 @@
-﻿using System;
+using System;using R5T.T0064;
 
 
 namespace R5T.D0040.Default
-{
-    public class StringlyTypedUrlOperator : IStringlyTypedUrlOperator
+{[ServiceImplementationMarker]
+    public class StringlyTypedUrlOperator : IStringlyTypedUrlOperator,IServiceImplementation
     {
         public string BuildUrl(string scheme, string host, string path)
         {

@@ -1,9 +1,12 @@
 ﻿using System;
 
+using R5T.T0064;
+
 
 namespace R5T.D0040
 {
-    public interface IStringlyTypedUrlOperator
+    [ServiceDefinitionMarker]
+    public interface IStringlyTypedUrlOperator : IServiceDefinition
     {
         /// <summary>
         /// Builds a URL.
